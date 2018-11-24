@@ -1,0 +1,3 @@
+"""
+Applies to companies.
+"""
